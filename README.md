@@ -8,10 +8,6 @@ I prefer React & React Native for web/mobile front-end, .NET technologies for ba
 You may find some experimental and forked projects on my repos, feel free to contribute or using them.
 Knowledge should spre ad! 💪
 
-<a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
-    <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
-</a>
-
 <a href="https://twitter.com/ezranbayantemur">
     <img src="https://img.shields.io/badge/twitter-%40ezranbayantemur-%231DA1F2" alt="https://twitter.com/ezranbayantemur">
 </a>
@@ -25,4 +21,6 @@ Knowledge should spre ad! 💪
     <img src="https://img.shields.io/badge/gmail-ezranbayantemur%40-B23121" alt="mailto:ezranbayantemur@gmail.com">
 </a>
 
-
+<a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
+    <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
+</a>

@@ -12,18 +12,18 @@ Knowledge should spread! 💪
     <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
 </a>
 
-<a href="https://twitter.com/ezranbayantemur">
+<a href="https://twitter.com/ezranbayantemur" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/ezranbayantemur">
 </a>
-<a href="https://www.linkedin.com/in/ezran-onur-bayantemur">
+<a href="https://www.linkedin.com/in/ezran-onur-bayantemur" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ezran-onur-bayantemur">
 </a>
-<a href="https://www.instagram.com/ezranbayantemur/">
+<a href="https://www.instagram.com/ezranbayantemur/" target="_blank">
     <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/ezranbayantemur/">
 </a>
-<a href="mailto:ezranbayantemur@gmail.com">
+<a href="mailto:ezranbayantemur@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:ezranbayantemur@gmail.com">
 </a>
-<a href="https://medium.com/@ezranbayantemur">
+<a href="https://medium.com/@ezranbayantemur" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@ezranbayantemur">
 </a>

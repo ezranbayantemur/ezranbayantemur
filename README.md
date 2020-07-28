@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
+    <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
+</a>
+

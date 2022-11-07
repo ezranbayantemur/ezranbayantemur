@@ -1,5 +1,5 @@
 ## Hi there 👋
-Ezran here. I'm a software engineer, interested in everything but my speciality is mobile applications. Also working as instructor at [Kodluyoruz](https://www.kodluyoruz.org/), [Patika](https://app.patika.dev/moduller/react-native) and [Clarusway](https://clarusway.com/) and as software engineer at [Akinon](https://www.akinon.com) 
+Ezran here. I'm a software engineer, interested in everything but my speciality is mobile applications. Also working as instructor at [Kodluyoruz](https://www.kodluyoruz.org/), [Patika](https://app.patika.dev/moduller/react-native) and [Clarusway](https://clarusway.com/) and as software engineer at [AKBANK](https://www.akbank.com/tr-tr/sayfalar/default.aspx) 
 
 <img src="https://github.com/ezranbayantemur/ezranbayantemur/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
 
